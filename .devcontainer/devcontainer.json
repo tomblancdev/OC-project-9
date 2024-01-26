@@ -1,5 +1,5 @@
 {
-	"name": "untitled-dev", // ! 👈 Change this to the name of your dev container.
+	"name": "oc-project-9", // ! 👈 Change this to the name of your dev container.
 	// "dockerComposeFile": [
 	// 	"../../docker-compose.yml", // ! 👈 Change this to the path of your docker-compose file.
 	// 	"./docker-compose.dev.yml"

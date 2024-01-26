@@ -3,7 +3,7 @@ version: "latest"
 services:
   untitled: # ! 👈 name of the service
     build: . # path to the Dockerfile
-    container_name: untitled-dev # ! 👈 name of the container
+    container_name: oc-project-9 # ! 👈 name of the container
     restart: always # restart the container if it stops
     volumes: # mount the current directory to the container
       - ..:/workspace:cached # mount the current directory as workspace to the container
